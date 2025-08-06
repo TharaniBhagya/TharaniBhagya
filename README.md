@@ -1,12 +1,37 @@
-<h1 align="center">Hi 👋, I'm Bhagya</h1>
-<h3 align="center">A passionate Cyber Security Student from Sri Lanka.</h3>
+# 👋 Hi there, I'm Bhagya Herath
 
-- 🔭 I’m currently working on [Kuveni](https://github.com/M-J-Christina213/Kuveni_app.git)
+🎓 First-year undergraduate at APIIT Sri Lanka | 💻 Aspiring Penetration Tester | 🔐 Cybersecurity & Software Development Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharanibhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharanibhagya" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+- 🌱 Currently learning: Cybersecurity concepts, Flutter app development, and ethical hacking tools
+- 🛠️ Technologies I use:  
+  `Flutter` • `Dart` • `MySQL` • `C#` • `Cisco Packet Tracer` • `Kali Linux` • `Metasploit` • `Wireshark`  
+- 📁 Projects I'm working on:
+  - 🐾 **Kuveni App** – A women empowerment app focusing on safety, jobs, and finance
+  - 🐶 **Scooby** – A pet service booking platform developed in an Agile team environment
+  - 🛡️ **Cybersecurity Lab Design** – Designed Red/Blue team environments in Packet Tracer
+  - 💻 **Ethical Hacking Lab** – Practiced attacks like MS17-010 (EternalBlue), SQL Injection, DDoS & Phishing
+- 🎯 Career Goal: Become a professional **penetration tester** and cybersecurity specialist
+
+---
+
+## 🧠 Skills & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: [linkedin.com/in/bhagya-herath](https://linkedin.com/in/your-profile)   
+- 🌐 Portfolio: [Coming Soon]
+
+---
+
+_Thanks for stopping by! Feel free to explore my repositories and drop a star ⭐ if something helps you._
+
