@@ -27,7 +27,6 @@
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/TharaniBhagya](https://www.linkedin.com/in/tharani-bhagya-b48a652b6/)   
-- 🌐 Portfolio: [Coming Soon]
 
 ---
 
