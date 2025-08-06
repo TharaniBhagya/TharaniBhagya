@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bhagya Herath
+# 👋 Hi there, I'm Tharani Bhagya
 
 🎓 First-year undergraduate at APIIT Sri Lanka | 💻 Aspiring Penetration Tester | 🔐 Cybersecurity & Software Development Enthusiast
 
@@ -17,16 +17,16 @@
 ---
 
 ## 🧠 Skills & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/TharaniBhagy](https://www.linkedin.com/in/tharani-bhagya-b48a652b6/)   
+- 💼 LinkedIn: [linkedin.com/in/TharaniBhagya](https://www.linkedin.com/in/tharani-bhagya-b48a652b6/)   
 - 🌐 Portfolio: [Coming Soon]
 
 ---
