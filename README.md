@@ -12,8 +12,6 @@
 - 📁 Projects I'm working on:
   - 🐾 **Kuveni App** – A women empowerment app focusing on safety, jobs, and finance
   - 🐶 **Scooby** – A pet service booking platform developed in an Agile team environment
-  - 🛡️ **Cybersecurity Lab Design** – Designed Red/Blue team environments in Packet Tracer
-  - 💻 **Ethical Hacking Lab** – Practiced attacks like MS17-010 (EternalBlue), SQL Injection, DDoS & Phishing
 - 🎯 Career Goal: Become a professional **penetration tester** and cybersecurity specialist
 
 ---
