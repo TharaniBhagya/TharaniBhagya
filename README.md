@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/bhagya-herath](https://linkedin.com/in/your-profile)   
+- 💼 LinkedIn: [linkedin.com/in/TharaniBhagy](https://www.linkedin.com/in/tharani-bhagya-b48a652b6/)   
 - 🌐 Portfolio: [Coming Soon]
 
 ---
